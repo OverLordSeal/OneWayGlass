@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "one_way_glass:blocks/onewayglass_nonfront",
+    "up": "one_way_glass:blocks/onewayglass_nonfront",
+    "north": "one_way_glass:blocks/onewayglass_front",
+    "east": "one_way_glass:blocks/onewayglass_nonfront",
+    "south": "one_way_glass:blocks/onewayglass_nonfront",
+    "west": "one_way_glass:blocks/onewayglass_nonfront",
+    "particle": "one_way_glass:blocks/onewayglass_nonfront"
+  }
+}
