@@ -7,6 +7,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "one_way_glass"
+    },
+    {
+      "name": "OneWayGlassRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_way_glass_recipe"
     }
   ],
   "variable_elements": [],
